@@ -1,9 +1,9 @@
-package by.bsuir.wt.dshparko.tasks.fourth.controller;
+package by.bsuir.wt.anna.tasks.fourth.controller;
 
-import by.bsuir.wt.dshparko.tasks.fourth.controller.command.Command;
-import by.bsuir.wt.dshparko.tasks.fourth.controller.command.CommandFactory;
-import by.bsuir.wt.dshparko.tasks.fourth.controller.command.CommandResult;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.ServiceException;
+import by.bsuir.wt.anna.tasks.fourth.controller.command.Command;
+import by.bsuir.wt.anna.tasks.fourth.controller.command.CommandFactory;
+import by.bsuir.wt.anna.tasks.fourth.controller.command.CommandResult;
+import by.bsuir.wt.anna.tasks.fourth.exception.ServiceException;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;
