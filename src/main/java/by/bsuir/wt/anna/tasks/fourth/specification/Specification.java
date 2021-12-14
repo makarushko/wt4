@@ -1,4 +1,4 @@
-package by.bsuir.wt.dshparko.tasks.fourth.specification;
+package by.bsuir.wt.anna.tasks.fourth.specification;
 
 import java.util.List;
 
