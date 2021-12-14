@@ -1,8 +1,8 @@
-package by.bsuir.wt.dshparko.tasks.fourth.builder;
+package by.bsuir.wt.anna.tasks.fourth.builder;
 
-import by.bsuir.wt.dshparko.tasks.fourth.entity.Role;
-import by.bsuir.wt.dshparko.tasks.fourth.entity.User;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.RepositoryException;
+import by.bsuir.wt.anna.tasks.fourth.entity.Role;
+import by.bsuir.wt.anna.tasks.fourth.entity.User;
+import by.bsuir.wt.anna.tasks.fourth.exception.RepositoryException;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
