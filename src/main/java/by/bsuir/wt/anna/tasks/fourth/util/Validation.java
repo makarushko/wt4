@@ -1,4 +1,4 @@
-package by.bsuir.wt.dshparko.tasks.fourth.util;
+package by.bsuir.wt.anna.tasks.fourth.util;
 
 import java.util.Map;
 
