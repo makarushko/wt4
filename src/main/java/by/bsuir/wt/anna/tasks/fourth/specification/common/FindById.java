@@ -1,6 +1,6 @@
-package by.bsuir.wt.dshparko.tasks.fourth.specification.common;
+package by.bsuir.wt.anna.tasks.fourth.specification.common;
 
-import by.bsuir.wt.dshparko.tasks.fourth.specification.Specification;
+import by.bsuir.wt.anna.tasks.fourth.specification.Specification;
 
 import java.util.Collections;
 import java.util.List;
