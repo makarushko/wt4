@@ -1,13 +1,13 @@
-package by.bsuir.wt.dshparko.tasks.fourth.service;
+package by.bsuir.wt.anna.tasks.fourth.service;
 
-import by.bsuir.wt.dshparko.tasks.fourth.entity.Room;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.RepositoryException;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.ServiceException;
-import by.bsuir.wt.dshparko.tasks.fourth.repository.creator.RepositoryCreator;
-import by.bsuir.wt.dshparko.tasks.fourth.repository.impl.RoomRepository;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.common.FindById;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.room.FindAll;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.room.FindFree;
+import by.bsuir.wt.anna.tasks.fourth.entity.Room;
+import by.bsuir.wt.anna.tasks.fourth.exception.RepositoryException;
+import by.bsuir.wt.anna.tasks.fourth.exception.ServiceException;
+import by.bsuir.wt.anna.tasks.fourth.repository.creator.RepositoryCreator;
+import by.bsuir.wt.anna.tasks.fourth.repository.impl.RoomRepository;
+import by.bsuir.wt.anna.tasks.fourth.specification.common.FindById;
+import by.bsuir.wt.anna.tasks.fourth.specification.room.FindAll;
+import by.bsuir.wt.anna.tasks.fourth.specification.room.FindFree;
 
 import java.util.List;
 import java.util.Optional;
