@@ -1,13 +1,13 @@
-package by.bsuir.wt.dshparko.tasks.fourth.service;
+package by.bsuir.wt.anna.tasks.fourth.service;
 
-import by.bsuir.wt.dshparko.tasks.fourth.entity.User;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.RepositoryException;
-import by.bsuir.wt.dshparko.tasks.fourth.exception.ServiceException;
-import by.bsuir.wt.dshparko.tasks.fourth.repository.creator.RepositoryCreator;
-import by.bsuir.wt.dshparko.tasks.fourth.repository.impl.UserRepository;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.common.FindById;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.user.FindByUsername;
-import by.bsuir.wt.dshparko.tasks.fourth.specification.user.FindByUsernameAndPassword;
+import by.bsuir.wt.anna.tasks.fourth.entity.User;
+import by.bsuir.wt.anna.tasks.fourth.exception.RepositoryException;
+import by.bsuir.wt.anna.tasks.fourth.exception.ServiceException;
+import by.bsuir.wt.anna.tasks.fourth.repository.creator.RepositoryCreator;
+import by.bsuir.wt.anna.tasks.fourth.repository.impl.UserRepository;
+import by.bsuir.wt.anna.tasks.fourth.specification.common.FindById;
+import by.bsuir.wt.anna.tasks.fourth.specification.user.FindByUsername;
+import by.bsuir.wt.anna.tasks.fourth.specification.user.FindByUsernameAndPassword;
 
 import java.util.Optional;
 
